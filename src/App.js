@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Station from "./components/Station"
+import Station from "./components/Promp3/Station"
 
 function App() {
   return (
